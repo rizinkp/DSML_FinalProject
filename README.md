@@ -12,6 +12,11 @@ To predict the sales price for each house based on various features. For each Id
 This project aims to apply machine learning techniques to predict house prices using a real-world dataset from Kaggle's House Prices: Advanced Regression Techniques competition. The goal is to demonstrate a complete machine learning pipeline including EDA, preprocessing, modeling and evaluation.
 
 #### Tools & Technologies Used
--> Programming Language: Python \n
--> Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, joblib \n
--> Environment: Jupyter Notebook
+<li>Programming Language: Python </li>
+<li>Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, joblib </li>
+<li>Environment: Jupyter Notebook</li>
+
+#### Dataset
+<li>Source: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques</li>
+<li>Description: 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.</li>
+<li>Target Variable: SalePrice</li>
